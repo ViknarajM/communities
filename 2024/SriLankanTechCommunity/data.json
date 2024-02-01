@@ -10,6 +10,9 @@
     "Name": "Sri Lankan Tech Community",
     "Country": "Sri Lanka",
     "Url": "https://www.sltechcommunity.lk/", 
+    "SessionizeApiId": "zlnz9zt8",
+      "Description_SessionizeApiId": "https://sessionize.com/api/v2/zlnz9zt8/view/Sessions",
+      "SessionizeEventName": "Global Azure 2024 - Sri Lanka",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named sltc.png.",
       "File": "sltc.png"
